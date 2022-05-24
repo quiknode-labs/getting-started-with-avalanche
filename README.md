@@ -1,3 +1,5 @@
+# Getting Started with Avalanche
+
 [Avalanche](https://www.avax.network/) is an open-source, proof-of-stake blockchain with smart contract functionality that uses the Snow family of consensus protocols. Avalanche features [3 built-in blockchains](https://docs.avax.network/overview/getting-started/avalanche-platform) that are validated and secured by the Primary Network:
 * [Exchange Chain (X-Chain)](https://docs.avax.network/overview/getting-started/avalanche-platform/#exchange-chain-x-chain) - Acts as a decentralized platform for creating and trading digital smart assets like AVAX. These assets are a representation of a real-world resource with a set of rules that govern its behavior. The X-Chain is an instance of the Avalanche Virtual Machine (AVM). 
 * [Platform Chain (P-Chain)](https://docs.avax.network/overview/getting-started/avalanche-platform/#platform-chain-p-chain) - Metadata blockchain on Avalanche that coordinates validators, keeps track of active subnets, and enables the creation of new subnets. The P-Chain implements the [Snowman consensus protocol](https://docs.avax.network/#snowman-consensus-protocol).
